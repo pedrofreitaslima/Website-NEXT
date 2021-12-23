@@ -10,10 +10,10 @@
 
 ## Websites Image
 
-![Imagem 1](~/public/images/img-01.png)
-![Imagem 2](~/public/images/img-02.png)
-![Imagem 3](~/public/images/img-03.png)
-![Imagem 4](~/public/images/img-04.png)
-![Imagem 5](~/public/images/img-05.png)
-![Imagem 6](~/public/images/img-06.png)
-![Imagem 7](~/public/images/img-07.png)
+![Imagem 1](https://github.com/pedrofreitaslima/Website-NEXT/blob/main/public/images/img-01.png)
+![Imagem 2](https://github.com/pedrofreitaslima/Website-NEXT/blob/main/public/images/img-02.png)
+![Imagem 3](https://github.com/pedrofreitaslima/Website-NEXT/blob/main/public/images/img-03.png)
+![Imagem 4](https://github.com/pedrofreitaslima/Website-NEXT/blob/main/public/images/img-04.png)
+![Imagem 5](https://github.com/pedrofreitaslima/Website-NEXT/blob/main/public/images/img-05.png)
+![Imagem 6](https://github.com/pedrofreitaslima/Website-NEXT/blob/main/public/images/img-06.png)
+![Imagem 7](https://github.com/pedrofreitaslima/Website-NEXT/blob/main/public/images/img-07.png)
